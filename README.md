@@ -12,6 +12,29 @@ Intel公司于1980年推出的MCS-51奠定了嵌入式应用的单片微型计�
 
 52系列是增强型，有8032、8052、8752、8952四个机种。8052的ROM为8KB，RAM为256B；8032的RAM也是256B，它没有ROM，这两种单片机比8051和8031多了一个定时器/计数器，增加了一个中断源。
 
+### [STC单片机](https://github.com/mcuyun/STC)
+
+深圳宏晶科技8051单片机
+
+### [新塘单片机](https://github.com/mcuyun/Nuvoton)
+
+台湾新塘8051单片机
+
+### [沁恒USB](https://github.com/mcuyun/WCH)
+
+国产高性价比USB 8051单片机
+
+### [TI无线IC](https://github.com/mcuyun/TI)
+
+TI高性能多功能8051内核单片机
+
+### [AT89S系列](https://github.com/sochub/AT89S)
+
+AT89S系列8051单片机
+
+### [汇春触控IC](https://github.com/mcuyun/yspring)
+
+国产超低成本汇春单片机
 
 ---
 
