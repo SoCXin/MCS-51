@@ -20,7 +20,7 @@ Intel公司于1980年推出的MCS-51奠定了嵌入式应用的单片微型计�
 
 台湾新塘8051单片机，超低价格，丰富外设
 
-### [沁恒USB](https://github.com/sochub/WCH)
+### [沁恒USB](https://github.com/sochub/WCH-8051)
 
 国产高性价比USB 8051单片机
 
