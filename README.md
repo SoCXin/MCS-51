@@ -38,6 +38,16 @@ AT89S系列8051单片机
 
 ---
 
+## [更多内核架构](https://github.com/sochub)
+
+#### [X86](https://github.com/mcuyun/X86)
+#### [ARM](https://github.com/mcuyun/ARM)
+#### [MIPS](https://github.com/mcuyun/MIPS)
+#### [FPGA](https://github.com/mcuyun/FPGA)
+#### [RISC-V](https://github.com/mcuyun/RISC-V)
+
+---
+
 ###  [SoC开发平台](http://www.qitas.cn)   
 
 ###  qitas@qitas.cn
