@@ -14,8 +14,10 @@ Intel公司于1980年推出的8051奠定了嵌入式应用的单片微型计算�
 ### [收录资源](https://github.com/sochub/8051)
 
 * [STC单片机](https://github.com/sochub/STC)
-* [WCH单片机](https://github.com/sochub/WCH)
-* [汇春单片机](https://github.com/sochub/yspring)
+* [WCH CH55系列](https://github.com/sochub/CH55)
+* [WCH CH54系列](https://github.com/sochub/CH54)
+* [汇春 YS62系列](https://github.com/sochub/YS62F0132)
+* [汇春 YS84系列](https://github.com/sochub/YS84)
 
 ---
 
