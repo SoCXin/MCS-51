@@ -10,30 +10,40 @@ Intel公司于1980年推出的8051奠定了嵌入式应用的单片微型计算�
 
 52系列是增强型，有8032、8052、8752、8952四个机种。8052的ROM为8KB，RAM为256B；8032的RAM也是256B，它没有ROM，这两种单片机比8051和8031多了一个定时器/计数器，增加了一个中断源。
 
-### 8051编译工具
+#### 8051开源编译工具
 
 * [SDCC](https://github.com/sochub/SDCC)
 
 ### [收录资源](https://github.com/sochub/8051)
 
-* [nuvoton 8051](https://github.com/sochub/nuvoton)
+* [nuvoton](https://github.com/sochub/nuvoton)
     * [N76E003](https://github.com/sochub/N76E003)
-* [WCH 8051](https://github.com/sochub/WCH)
+
+* [WCH](https://github.com/sochub/WCH)
     * [CH55x系列](https://github.com/sochub/CH55)
     * [CH54x系列](https://github.com/sochub/CH54)
-* [yspring 8051](https://github.com/sochub/yspring)
+
+* [yspring](https://github.com/sochub/yspring)
     * [YS62系列](https://github.com/sochub/YS62)
     * [YS84系列](https://github.com/sochub/YS84)
-* [asix 8051](https://github.com/sochub/asix)
+
+* [STC](https://github.com/sochub/STC)
+    * [STC89](https://github.com/sochub/STC89)
+
+* [asix](https://github.com/sochub/asix)
     * [AX11001系列](https://github.com/sochub/AX11001)
     * [AX22001系列](https://github.com/sochub/AX22001)
     * [AX68004系列](https://github.com/sochub/AX68004)
-* [TI 8051](https://github.com/sochub/TI)
+
+* [TI](https://github.com/sochub/TI)
     * [CC254X](https://github.com/sochub/CC2541)
     * [CC2530](https://github.com/sochub/CC2530)
-* [STC 8051](https://github.com/sochub/STC)
-    * [STC89](https://github.com/sochub/STC89)
-* [AVR](https://github.com/sochub/AVR)
+
+* [microchip](https://github.com/sochub/microchip) 
+    * [AVR](https://github.com/sochub/AVR)
+    * [PIC](https://github.com/sochub/PIC)
+    * [ATMEL](https://github.com/sochub/ATMEL)
+        * [AT89S](https://github.com/sochub/AT89S)
 
 相似架构：
 
