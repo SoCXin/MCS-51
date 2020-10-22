@@ -40,11 +40,6 @@ Intel公司于1980年推出的8051奠定了嵌入式应用的单片微型计算�
     * [AX22001系列](https://github.com/SoCXin/AX22001)
     * [AX68004系列](https://github.com/SoCXin/AX68004)
 
-* [microchip](https://github.com/SoCXin/microchip) 
-    * [AVR](https://github.com/SoCXin/AVR)
-    * [PIC](https://github.com/SoCXin/PIC)
-    * [ATMEL](https://github.com/SoCXin/ATMEL)
-        * [AT89S](https://github.com/SoCXin/AT89S)
 
 #### 相关工具
 
